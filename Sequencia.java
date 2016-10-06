@@ -1,6 +1,8 @@
 package recordatori;
 
 public class Sequencia {
+
+	//Ara aquest programa fa lo dels numeros-
 		
 	public static void main(String[] args) {
 	    
@@ -49,7 +51,7 @@ public class Sequencia {
 			max = contador;
 		}
 		if(max == 1){
-			return resultat + " tenen " + max + " repetició.";
+			return resultat + " tenen " + max + " repeticiï¿½.";
 		}
 		else{
 			return resultat + " tenen " + max + " repeticions.";
