@@ -1,1 +1,2 @@
 Aquest prograaaadssfasdfasdfsadfasdfdsfdsfdasfdasfas
+//comentari conflicte
