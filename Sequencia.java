@@ -1,5 +1,5 @@
 package recordatori;
-
+//Comentari conflicte
 public class Sequencia {
 
 	//Ara aquest programa fa lo dels numeros-
